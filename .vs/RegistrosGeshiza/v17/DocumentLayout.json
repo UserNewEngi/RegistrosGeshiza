@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|c:\\users\\jostin\\downloads\\registrosgeshiza\\registrosgeshiza\\daoimpl\\gestorautobusimpl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|solutionrelative:registrosgeshiza\\daoimpl\\gestorautobusimpl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|c:\\users\\jostin\\downloads\\registrosgeshiza\\registrosgeshiza\\daoimpl\\reporteventadao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|solutionrelative:registrosgeshiza\\daoimpl\\reporteventadao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|c:\\users\\jostin\\downloads\\registrosgeshiza\\registrosgeshiza\\daoimpl\\gestionempleadodao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|solutionrelative:registrosgeshiza\\daoimpl\\gestionempleadodao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|c:\\users\\jostin\\downloads\\registrosgeshiza\\registrosgeshiza\\daoimpl\\historialdao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|solutionrelative:registrosgeshiza\\daoimpl\\historialdao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|c:\\users\\jostin\\downloads\\registrosgeshiza\\registrosgeshiza\\connection\\conexion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|solutionrelative:registrosgeshiza\\connection\\conexion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|c:\\users\\jostin\\downloads\\registrosgeshiza\\registrosgeshiza\\daoconexion\\reporteventacn.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|solutionrelative:registrosgeshiza\\daoconexion\\reporteventacn.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|c:\\users\\jostin\\downloads\\registrosgeshiza\\registrosgeshiza\\daoconexion\\gestionempleadocn.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|solutionrelative:registrosgeshiza\\daoconexion\\gestionempleadocn.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|c:\\users\\jostin\\downloads\\registrosgeshiza\\registrosgeshiza\\daoconexion\\historialcn.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|solutionrelative:registrosgeshiza\\daoconexion\\historialcn.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|c:\\users\\jostin\\downloads\\registrosgeshiza\\registrosgeshiza\\gestionchoferes\\gestordechoferes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|solutionrelative:registrosgeshiza\\gestionchoferes\\gestordechoferes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|c:\\users\\jostin\\downloads\\registrosgeshiza\\registrosgeshiza\\gestionchoferes\\chofer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|solutionrelative:registrosgeshiza\\gestionchoferes\\chofer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|c:\\users\\jostin\\downloads\\registrosgeshiza\\registrosgeshiza\\daoimpl\\reporteventaimpl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|solutionrelative:registrosgeshiza\\daoimpl\\reporteventaimpl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|c:\\users\\jostin\\downloads\\registrosgeshiza\\registrosgeshiza\\daoimpl\\gestordechoferesimpl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|solutionrelative:registrosgeshiza\\daoimpl\\gestordechoferesimpl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|c:\\users\\jostin\\downloads\\registrosgeshiza\\registrosgeshiza\\dao\\idaogenerico.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|solutionrelative:registrosgeshiza\\dao\\idaogenerico.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|c:\\users\\jostin\\downloads\\registrosgeshiza\\registrosgeshiza\\connection\\guardardatos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|solutionrelative:registrosgeshiza\\connection\\guardardatos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|c:\\users\\jostin\\downloads\\registrosgeshiza\\registrosgeshiza\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F4D2BCEF-116B-4F19-86E1-F82669006887}|RegistrosGeshiza\\RegistrosGeshiza.vbproj|solutionrelative:registrosgeshiza\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conexion.vb",
+              "DocumentMoniker": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\connection\\Conexion.vb",
+              "RelativeDocumentMoniker": "RegistrosGeshiza\\connection\\Conexion.vb",
+              "ToolTip": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\connection\\Conexion.vb",
+              "RelativeToolTip": "RegistrosGeshiza\\connection\\Conexion.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-30T06:27:47.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HistorialCN.vb",
+              "DocumentMoniker": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\daoConexion\\HistorialCN.vb",
+              "RelativeDocumentMoniker": "RegistrosGeshiza\\daoConexion\\HistorialCN.vb",
+              "ToolTip": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\daoConexion\\HistorialCN.vb",
+              "RelativeToolTip": "RegistrosGeshiza\\daoConexion\\HistorialCN.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-30T06:30:21.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GestionEmpleadoCN.vb",
+              "DocumentMoniker": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\daoConexion\\GestionEmpleadoCN.vb",
+              "RelativeDocumentMoniker": "RegistrosGeshiza\\daoConexion\\GestionEmpleadoCN.vb",
+              "ToolTip": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\daoConexion\\GestionEmpleadoCN.vb",
+              "RelativeToolTip": "RegistrosGeshiza\\daoConexion\\GestionEmpleadoCN.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-30T06:29:14.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReporteVentaCN.vb",
+              "DocumentMoniker": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\daoConexion\\ReporteVentaCN.vb",
+              "RelativeDocumentMoniker": "RegistrosGeshiza\\daoConexion\\ReporteVentaCN.vb",
+              "ToolTip": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\daoConexion\\ReporteVentaCN.vb",
+              "RelativeToolTip": "RegistrosGeshiza\\daoConexion\\ReporteVentaCN.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-30T06:30:37.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HistorialDao.vb",
+              "DocumentMoniker": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\daoImpl\\HistorialDao.vb",
+              "RelativeDocumentMoniker": "RegistrosGeshiza\\daoImpl\\HistorialDao.vb",
+              "ToolTip": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\daoImpl\\HistorialDao.vb",
+              "RelativeToolTip": "RegistrosGeshiza\\daoImpl\\HistorialDao.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-30T06:32:41.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestionEmpleadoDao.vb",
+              "DocumentMoniker": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\daoImpl\\GestionEmpleadoDao.vb",
+              "RelativeDocumentMoniker": "RegistrosGeshiza\\daoImpl\\GestionEmpleadoDao.vb",
+              "ToolTip": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\daoImpl\\GestionEmpleadoDao.vb*",
+              "RelativeToolTip": "RegistrosGeshiza\\daoImpl\\GestionEmpleadoDao.vb*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-30T06:31:14.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReporteVentaDao.vb",
+              "DocumentMoniker": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\daoImpl\\ReporteVentaDao.vb",
+              "RelativeDocumentMoniker": "RegistrosGeshiza\\daoImpl\\ReporteVentaDao.vb",
+              "ToolTip": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\daoImpl\\ReporteVentaDao.vb*",
+              "RelativeToolTip": "RegistrosGeshiza\\daoImpl\\ReporteVentaDao.vb*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-30T06:32:55.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestorAutobusImpl.vb",
+              "DocumentMoniker": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\daoImpl\\GestorAutobusImpl.vb",
+              "RelativeDocumentMoniker": "RegistrosGeshiza\\daoImpl\\GestorAutobusImpl.vb",
+              "ToolTip": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\daoImpl\\GestorAutobusImpl.vb*",
+              "RelativeToolTip": "RegistrosGeshiza\\daoImpl\\GestorAutobusImpl.vb*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-30T06:31:37.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GestorDeChoferes.vb",
+              "DocumentMoniker": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\GestionChoferes\\GestorDeChoferes.vb",
+              "RelativeDocumentMoniker": "RegistrosGeshiza\\GestionChoferes\\GestorDeChoferes.vb",
+              "ToolTip": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\GestionChoferes\\GestorDeChoferes.vb",
+              "RelativeToolTip": "RegistrosGeshiza\\GestionChoferes\\GestorDeChoferes.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-30T06:34:17.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Chofer.vb",
+              "DocumentMoniker": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\GestionChoferes\\Chofer.vb",
+              "RelativeDocumentMoniker": "RegistrosGeshiza\\GestionChoferes\\Chofer.vb",
+              "ToolTip": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\GestionChoferes\\Chofer.vb",
+              "RelativeToolTip": "RegistrosGeshiza\\GestionChoferes\\Chofer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-30T06:34:04.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReporteVentaImpl.vb",
+              "DocumentMoniker": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\daoImpl\\ReporteVentaImpl.vb",
+              "RelativeDocumentMoniker": "RegistrosGeshiza\\daoImpl\\ReporteVentaImpl.vb",
+              "ToolTip": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\daoImpl\\ReporteVentaImpl.vb",
+              "RelativeToolTip": "RegistrosGeshiza\\daoImpl\\ReporteVentaImpl.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-30T06:33:29.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GestorDeChoferesImpl.vb",
+              "DocumentMoniker": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\daoImpl\\GestorDeChoferesImpl.vb",
+              "RelativeDocumentMoniker": "RegistrosGeshiza\\daoImpl\\GestorDeChoferesImpl.vb",
+              "ToolTip": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\daoImpl\\GestorDeChoferesImpl.vb",
+              "RelativeToolTip": "RegistrosGeshiza\\daoImpl\\GestorDeChoferesImpl.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-30T06:32:26.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDaoGenerico.vb",
+              "DocumentMoniker": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\dao\\IDaoGenerico.vb",
+              "RelativeDocumentMoniker": "RegistrosGeshiza\\dao\\IDaoGenerico.vb",
+              "ToolTip": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\dao\\IDaoGenerico.vb",
+              "RelativeToolTip": "RegistrosGeshiza\\dao\\IDaoGenerico.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-30T06:28:36.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GuardarDatos.vb",
+              "DocumentMoniker": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\connection\\GuardarDatos.vb",
+              "RelativeDocumentMoniker": "RegistrosGeshiza\\connection\\GuardarDatos.vb",
+              "ToolTip": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\connection\\GuardarDatos.vb",
+              "RelativeToolTip": "RegistrosGeshiza\\connection\\GuardarDatos.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-30T06:28:03.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\Form1.vb",
+              "RelativeDocumentMoniker": "RegistrosGeshiza\\Form1.vb",
+              "ToolTip": "C:\\Users\\JOSTIN\\Downloads\\RegistrosGeshiza\\RegistrosGeshiza\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "RegistrosGeshiza\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-30T06:27:13.533Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
